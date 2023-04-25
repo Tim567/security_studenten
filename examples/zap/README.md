@@ -15,7 +15,7 @@ De proxy instellingen zijn:
 
 Hoe het instellen van de proxy in de browser precies werkt is afhankelijk van de browser. Volg de instructies [hier](https://www.zaproxy.org/docs/desktop/start/proxies/).
 
-## Instaleren certificaat
-Om de proxy te gebruiken moet het certificaat van de proxy geinstalleerd worden.
+## Installeren certificaat
+Om de proxy te gebruiken moet het certificaat van de proxy geïnstalleerd worden.
 Dit certificaat zal te vinden zijn in de map `data` van dit voorbeeld wanneer de zap omgeving is gestart.
-Dit certificaat moet in de browser geinstalleerd worden. [Dit kan in de instellingen van de browser](https://www.zaproxy.org/docs/desktop/addons/network/options/servercertificates/).
+Dit certificaat moet in de browser geïnstalleerd worden. [Dit kan in de instellingen van de browser](https://www.zaproxy.org/docs/desktop/addons/network/options/servercertificates/).
